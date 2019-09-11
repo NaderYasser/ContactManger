@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
-- [Deployment](#deployment)
+
 
 ### Installation
 
@@ -55,8 +55,4 @@ or
 npm run build
 ```
 
-### Deploy to Now
-
-```sh
-now
 ```
